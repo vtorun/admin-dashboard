@@ -80,3 +80,4 @@ export const inputs = [
     name: "description",
   },
 ];
+export const categories = ["Elektronik", "Giyim", "Aksesuar", "Ev", "Kitap"];

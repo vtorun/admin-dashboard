@@ -155,6 +155,18 @@
       "image_url": "https://picsum.photos/seed/11/500/500",
       "rating": 4.5,
       "reviews_count": 70
+    },
+    {
+      "id": "b375",
+      "name": "Fitbit Versa 3",
+      "brand": "Fitbit",
+      "category": "Wearables",
+      "description": "Health & fitness smartwatch with GPS and heart rate monitor.",
+      "image_url": "https://picsum.photos/seed/10/500/500",
+      "price": 332,
+      "stock": 18,
+      "rating": null,
+      "reviews_count": null
     }
   ],
   "users": [
