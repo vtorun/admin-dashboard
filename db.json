@@ -162,9 +162,9 @@
       "brand": "Fitbit",
       "category": "Wearables",
       "description": "Health & fitness smartwatch with GPS and heart rate monitor.",
-      "image_url": "https://picsum.photos/seed/10/500/500",
+      "image_url": "https://picsum.photos/seed/12/500",
       "price": 332,
-      "stock": 18,
+      "stock": 22,
       "rating": null,
       "reviews_count": null
     }
